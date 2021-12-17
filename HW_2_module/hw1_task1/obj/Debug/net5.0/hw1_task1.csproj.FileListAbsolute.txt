@@ -1,0 +1,15 @@
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/bin/Debug/net5.0/hw1_task1.deps.json
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/bin/Debug/net5.0/hw1_task1.runtimeconfig.json
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/bin/Debug/net5.0/hw1_task1.runtimeconfig.dev.json
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/bin/Debug/net5.0/hw1_task1.dll
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/bin/Debug/net5.0/ref/hw1_task1.dll
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/bin/Debug/net5.0/hw1_task1.pdb
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/hw1_task1.csproj.AssemblyReference.cache
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/hw1_task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/hw1_task1.AssemblyInfoInputs.cache
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/hw1_task1.AssemblyInfo.cs
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/hw1_task1.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/hw1_task1.dll
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/ref/hw1_task1.dll
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/hw1_task1.pdb
+/Users/apple/Desktop/reposits/c_sharp_1/HW_2_module/hw1_task1/obj/Debug/net5.0/hw1_task1.genruntimeconfig.cache
